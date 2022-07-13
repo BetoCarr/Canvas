@@ -26,7 +26,7 @@ function dibujoPorClick()
 var lineas = parseInt(texto.value);
 var l = 0;
 var yi, xf; 
-var colorcito = "black";
+var colorcito = purple;
 var espacio = ancho / lineas;
 
 console.log(lienzo);
